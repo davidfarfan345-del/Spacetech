@@ -1,2 +1,2 @@
-# Spacetech
-Pagina información de juegos 
+hola
+https://github.com/davidfarfan345-del/Spacetech.git
